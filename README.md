@@ -37,7 +37,7 @@ resolvido por [Alisson Rangel](https://github.com/alissonrangel)
   - Escreva os testes unitários para as funções criadas ou refatoradas.
 
 [x] Fazer o deploy no Netlify e compartilhar o link da página
-
+  - [https://desafio03-dio.netlify.app/](https://desafio03-dio.netlify.app/)
 #### Extras
   - usei o iconButton e o useToast do chakra ui
   - usei ícones do react-icons
