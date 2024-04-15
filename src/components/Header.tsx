@@ -1,4 +1,4 @@
-import { Box, Center, Flex, IconButton, Spacer, Text, useToast } from '@chakra-ui/react'
+import { Box, Center, Flex, IconButton, Text, useToast } from '@chakra-ui/react'
 import { useContext } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
 import { changeLocalStorage } from '../services/storage'

@@ -1,8 +1,7 @@
-import { Box, Center, Flex, SimpleGrid, Spinner, Text } from "@chakra-ui/react"
+import { Box, Center, Flex, Spinner, Text } from "@chakra-ui/react"
 import { useParams, useNavigate } from "react-router-dom"
 import { useContext, useEffect, useState } from "react"
 import { api } from "../api"
-import CardInfo from "../components/CardInfo"
 import { AppContext } from "../components/AppContext"
 import { Card } from "../components/Card"
 
