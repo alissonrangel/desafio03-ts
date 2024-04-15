@@ -5,7 +5,7 @@ import { api } from "../api"
 import CardInfo from "../components/CardInfo"
 import { AppContext } from "../components/AppContext"
 
-interface UserData {
+export interface UserData {
     email: string
     password: string
     name: string
